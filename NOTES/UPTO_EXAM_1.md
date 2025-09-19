@@ -501,9 +501,65 @@
 - Another mehtod is Nuclear Magnetic Resonance (NMR)
 ### Flow of genetic info: DNA -> RNA -> Proteins
 
+# 9_12 (Fri) - Nucleic Acids
 
+### Learning objectives
+- Describe the basic structural characteristics and biological importance of carbohydrates, lipids, proteins, and nucleic acids
+- Appreciate the importance of the orientation of DNA strands and base pairing rules that make DNA an information storage molecule
 
+### Topics
+- Macromolecules
+- Nucleic Acids
+    - Nitrogenous bases
+    - Nucleotides
+    - Base Pairing
+    - Secondary Structure
 
+### Review
+- Carbohydrates - hydrophyllic, energy rich
+- Lipids - energy storage
+- Proteins - catalyze reactions
+
+### Nucleic Acids
+- Made from C, H, O, N (with some P)
+- Polymer monomers: nucleotides
+- Polymer bond name: phosphodiester bond
+- 2 Examples:
+    - DNA (deoxyribonucleic acid; the genetic material)
+    - RNA (ribonucleic acid; many varieties including mRNA, tRNA, rRNA)
+- 2' carbon - the differentiater between RNA and DNA. A hydroxyl group attaches to it to make DNA into RNA
+- 3' carbon - essential for phosphodiester bond
+- 4' carbon - attached to nitrogenous base?
+- 5' carbon - attaches to phosphate group
+### Nitrogenous bases
+- Purines (2 rings)
+    - Adenine (A) (DNA and RNA)
+    - Guanine (G) (DNA and RNA)
+- Pyrimidines (1 ring)
+    - Cytosine (C) (DNA and RNA)
+    - Thymine (T) (DNA only)
+    - Uracil (U) (RNA only)
+
+### Double Stranded DNA
+- Contains hydrogen bonds between purines and pyrimidines
+    - T-A
+    - G-C
+- These bonded pairs are connected via phosphodiester bonds between 5' carbon and 3'carbon 
+
+### Base Pairing
+- 5'-GGATGCATG-3'
+- 3'-CCTACGTAC-5'
+- Nucleic acids are only extended at their 3' ends
+- The two strands in double stranded DNA are anti-parallel
+- The two strands in double stranded DNA are also reverse complements of each other.
+
+### tRNA (transfer RNA)
+- typically single stranded but can base pair
+- T arm
+- D arm
+- Acceptor Stem
+- Anticodon
 
 # EXAM 1 GOODIES
 - CARBON - 6 protons, 4 valence electrons
+
