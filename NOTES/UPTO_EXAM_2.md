@@ -163,6 +163,7 @@
 ### Cytoskeleton
 - Network of protein fibers that help to maintain the shape of the cell
 - Three types of fibers:
+
 # 9_22 (Mon) - Membrane Structure and Function
 - Explain how the structure of membranes and eulkaryotes organelles and cytoskeleton directly give rise to their functions.
 - Recognize cells as the basic unit of life in all living organisms; compare and contrast differences between prokaryotic and eukaryotic cells
@@ -243,3 +244,154 @@ Alosteric change - when a change in shape of a protein changes its function
     - Pinocytosis
 ### Exocytosis
 - Expells materials out of the cell
+
+# 9_24 (Wed) - Chemical Energy in Cells (Thermodynamics)
+### Learning Objectives
+- Understand how living things work within the contstraints of the first and second laws of thermodynamics.
+- Describe how living things speed the rate of preferred chemical reactions by using enzymes to lower the activation energy of those reactions.
+### Metabolic Pathways
+- Series of enzyme reactions convert input molecule/substrate into a product
+### Energy and metabolism overview
+- Cellular processes occur through stepwise chemical reactions
+- These reactions either release energy or require energy to proceed
+- All the chemical reactions that occur in a living cell are referred to as the cell's metabolism
+- Bioenergetics
+### Laws of thermodynamics
+- An organism's metabolism transforms matter and energy subject to hte laws of thermodynamics
+- <b>First Law</b>:
+    - In a closed system, energy cannot be created or destroyed
+    - Energy can be transferred and transformed
+- <b>Second Law</b>:
+    - Energy will always be lost as heat (disordered motion) in energy transfers or transformations
+### Energy
+- Can exist in two states:
+    - Kinetic Energy: associated with motion
+    - Potential Energy: stored energy
+        - Chemical energy: potential energy stored in bonds, released when bonds are broken
+- Can be transformed from one state to another.
+- Energy associated with a chemical reaction that is available to do work
+- Denoted by G (Gibb's free energy)
+- Change in free energy is denoted as delta G
+    - If delta G is negative: free energy is released -> exergonic reactions, spontaneous
+    - If delta G is positive: reaction absorbs energy -> endergonic reactions, non-spontaneous
+- Activation Energy
+    - The amount of initial energy necessary for reactions to occur.
+- Energy transfers typically lose some energy to disorder
+
+### Gibbs Free Energy
+- dG = dH - (T * dS)
+- Gibbs Free Energy = enthalpy - (temperature * entropy)
+
+### Diffusion
+- Order to disorder
+- Concentration becomes consistent across a system, equillibrium
+
+### Patent applications for perpetual motion machines are rejected on "utility grounds"
+- Utility rejections are based on the belief that an invention cannot have utility if it does not work.
+- Utility rejections were once common for hair re-growth treatments
+- Newman v. Quigg (1989) - Newman's claim was found to violate 1st Law and a working prototype was found to be 87% efficient.
+
+### Reactions
+- Adenosine triphosphate (ATP) + H2O - phosphate ion (Pi) - energy = Adenosine diphosphate (ADP)
+- ATP is the "energy currency" of cells. Converting ATP to ADP and Pi released 7.3kcal/mole. Why doesn't all the ATP in our bodies spontaneously fall apart into ADP and Pi.
+- Glutamic Acid + Ammonia = Glutamine; dG = +3.4 kcal/mol, non-spontaneous
+- ATP is converted to ADP during the reaction to allow the reaction to occur spontaneously
+# 9_26 (Fri) - Chemical Energy in Cells (Enzymes)
+### Learning Objectives
+- Understand how living things work within the constraints of the first and second laws of thermodynamics
+- Describe how living things speed the rate of preferred chemical reactions by using enzymes to lower the activation energy of those reactions.
+### Metabolism
+- the total of all chemical reactions carried out by an organism
+- Metabolic pathway: a sequence of reactions that begin with a specific molecule and end with a product, each catalyzed by a specific enzyme.
+    - Anabolic Reactions: joins small molecules together to form larger more complex molecules
+    - Catabolic Reactions: Breaks large molecules down into smaller subunits.
+
+### Catabolic convergence
+- Catabolic pathways converge to make acetate (Acetyl-CoA).
+### Anabolic Divergence
+- Anabolic pathways diverge to make all fats and carbohydrates.
+### The glycolysis pathway is common to all known organisms
+- All use the exact same process since the last universal common ancestor.
+### Enzymes
+- Catalysts are substances that increase the rate at which chemical reactions occur
+    - Lower activation energy
+    - Are not used up or changed in any way during the reaction
+- Enzymes are the molecules that catalyze biochemical reactions
+    - Most are proteins (some are RNA)
+
+- Enzymes cannot make a non-spontaneous reaction spontaneous or vice versa
+
+### Enzyme process
+- Substrate entering active site of enzyme
+- Enzyme changes shape sslightly as substrate bings, Enzyme/Substrate complex
+- Enzyme/products complex
+- Products leaving active site of enzyme
+
+### Factors affecting enzyme activity
+- Structure = Function !
+### Factors affecting enzyme activity
+- Temperature
+- pH
+- Chemical modification (like phosphorylation), reverseable
+- Inhibitors: substances that binds to an enzyme and decreases its activity
+    - Competitive inhibitors: Compete with the substrate for the same active site
+    - Noncompetitive inhibitors: bind ot the enzyme in a location other than the active site, changing the function
+    - Allosteric sites: specific binding sites acting as on/off switches.
+
+Normal enzyme and competitve inhibitor reach same rate of reaction once limit is reached, but normal enzyme has higher initially
+Noncompetitive inhibitor limirs rate of reaction to lower value.
+
+# 9_29 (Mon) - Glycolysis
+### Learning Objective
+- Outline the overall organization of the common set of ordered chemical reactions to extract energy from glucose and how these pathways accomplish the processing of energy.
+
+### Redox Reactions
+- Reaction where electrons are being moved.
+- Reduction - the gain of negative charge on an atom as it becomes more negative
+    - Can occur through the transfer of an e- or through unequal sharing of an e-
+    - The atom or molecule that donates the negative charge is the reducing agent
+    - Atoms rich in H are good reducing agents because they are the least electronegative and are oxidized easily.
+- Oxidation - the loss of negative charge on an atom as it becomes more positive
+    - Can occur through the loss of an e- or the movement of an e- away from an atom
+    - The molecule that accepts the charge is the oxidizing agent
+- A + B -> (A+) + (B-): 
+    - A is the reducing agent, B is the oxidizing agent
+- (Ce-) + D -> C + (De-): 
+    - Ce- is the reducing agent, D is the oxidizing agent
+
+### The combustion of glucose
+- Glucose (C6H12O6) + 6 Oxygen (O2) -> 6 Carbon Dioxide (CO2) + 6 water (H2O) + about 38 ATP
+
+### The energy currency of cells
+- ATP - Used to power the majority of energy-requiring cellular reactions
+    - Consists of adenosine (adenine + ribose) and a triphosphate group
+    - The bonds between the phosphate groups are high energy bonds
+    - The release of one or two phosphate groups from ATP releases energy.
+    - deltaG of -7.3 kcal/mole
+
+### Glycolysis
+- The first step in the breakdown of glucose to extract energy for cell metabolism
+- Takes place in the cytoplasm
+- Glucose converted to two pyruvate molecules
+- Netgain of 2 ATP molecules from one molecule of glucose (and two NADH)
+
+### Glycolysis Reaction Process
+0. Glucose -> 
+1. [`Hexo kinase`] -> Glucose-6-phosphate -> 
+2. [`Phosphoglucose isomerase`] -> Fructose-6-phosphate -> 
+3. [`Phosphofructo kinase`] -> Fructose-1,6-biphosphate -> 
+4. [`Fructose biphosphate aldolase`] -> Dihydroxyacetone-phosphate <--> 
+5. [`Triose Phosphate Isomerase`] <--> Glyceraldehyde-3-phosphate ->
+6. [`Glyceraldehyde-3-phosphatede hydrogenase`] -> 1,3-Biphosphoglycerate ->
+7. [`Phosphoglycerate kinase`] -> 3-phosphoglycerate ->
+8. [`Phosphoglycerate mutase`] -> 2-phosphoglycerate ->
+9. [`Enolase`] -> Phosphoenolpyruvate (PEP) ->
+10. [`Pyruvate kinase`] -> Pyruvate
+- 1 and 3 are energy investing steps
+- 6, 7, and 10 are energy harvesting steps
+- Enzymes that catalyze the transfer of phosphate group are kinases
+- Enzymes that rearrange structures without changing chemical composition are isomerases.
+### Producing Acetyl CoA
+- Pyruvate molecules prduced at the end of glycolysis are transported into mitochondria (sites of cellular respiration)
+- If oxygen is available, aerobic respiration will go forward
+- Pyruvate is transformed into a two-carbon acetyl group that is pickup up by coenzyme A
