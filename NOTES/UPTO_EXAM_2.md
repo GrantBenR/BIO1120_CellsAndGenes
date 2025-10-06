@@ -391,7 +391,147 @@ Noncompetitive inhibitor limirs rate of reaction to lower value.
 - 6, 7, and 10 are energy harvesting steps
 - Enzymes that catalyze the transfer of phosphate group are kinases
 - Enzymes that rearrange structures without changing chemical composition are isomerases.
-### Producing Acetyl CoA
-- Pyruvate molecules prduced at the end of glycolysis are transported into mitochondria (sites of cellular respiration)
-- If oxygen is available, aerobic respiration will go forward
-- Pyruvate is transformed into a two-carbon acetyl group that is pickup up by coenzyme A
+
+# 9_29 (Mon) - Glycolysis
+### Learning Objective
+- Outline the overall organization of the common set of ordered chemical reactions to extract energy from glucose and how these pathways accomplish the processing of energy.
+
+### Redox Reactions
+- Reaction where electrons are being moved.
+- Reduction - the gain of negative charge on an atom as it becomes more negative
+    - Can occur through the transfer of an e- or through unequal sharing of an e-
+    - The atom or molecule that donates the negative charge is the reducing agent
+    - Atoms rich in H are good reducing agents because they are the least electronegative and are oxidized easily.
+- Oxidation - the loss of negative charge on an atom as it becomes more positive
+    - Can occur through the loss of an e- or the movement of an e- away from an atom
+    - The molecule that accepts the charge is the oxidizing agent
+- A + B -> (A+) + (B-): 
+    - A is the reducing agent, B is the oxidizing agent
+- (Ce-) + D -> C + (De-): 
+    - Ce- is the reducing agent, D is the oxidizing agent
+
+### The combustion of glucose
+- Glucose (C6H12O6) + 6 Oxygen (O2) -> 6 Carbon Dioxide (CO2) + 6 water (H2O) + about 38 ATP
+
+### The energy currency of cells
+- ATP - Used to power the majority of energy-requiring cellular reactions
+    - Consists of adenosine (adenine + ribose) and a triphosphate group
+    - The bonds between the phosphate groups are high energy bonds
+    - The release of one or two phosphate groups from ATP releases energy.
+    - deltaG of -7.3 kcal/mole
+
+### Glycolysis
+- The first step in the breakdown of glucose to extract energy for cell metabolism
+- Takes place in the cytoplasm
+- Glucose converted to two pyruvate molecules
+- Netgain of 2 ATP molecules from one molecule of glucose (and two NADH)
+
+### Glycolysis Reaction Process
+0. Glucose -> 
+1. [`Hexo kinase`] -> Glucose-6-phosphate -> 
+2. [`Phosphoglucose isomerase`] -> Fructose-6-phosphate -> 
+3. [`Phosphofructo kinase`] -> Fructose-1,6-biphosphate -> 
+4. [`Fructose biphosphate aldolase`] -> Dihydroxyacetone-phosphate <--> 
+5. [`Triose Phosphate Isomerase`] <--> Glyceraldehyde-3-phosphate ->
+6. [`Glyceraldehyde-3-phosphatede hydrogenase`] -> 1,3-Biphosphoglycerate ->
+7. [`Phosphoglycerate kinase`] -> 3-phosphoglycerate ->
+8. [`Phosphoglycerate mutase`] -> 2-phosphoglycerate ->
+9. [`Enolase`] -> Phosphoenolpyruvate (PEP) ->
+10. [`Pyruvate kinase`] -> Pyruvate
+- 1 and 3 are energy investing steps
+- 6, 7, and 10 are energy harvesting steps
+- Enzymes that catalyze the transfer of phosphate group are kinases
+- Enzymes that rearrange structures without changing chemical composition are isomerases.
+### The citric acid cycle is common to all known organisms
+
+### What happens when there a problems in this cycle
+- Isocitrate dehydrogenase (IDH3B) 
+    - Retinisis pigmentosa
+- a-keoglutarate dehydrogenase (OGDH) 
+    - Encephalopathy
+- Succinyl-CoA synthase (SUCLA2, SUCLG1) 
+    - Encephalopathy
+- Succinate dehydrogenase (SDHA, SDHB, SDHC, SSHS) 
+    - Leigh Syndrome
+    - Paraganglioma
+    - pheochromocytoma
+- Fumarase (FH) 
+    - Seizures 
+    - Muscle Weakness 
+    - Encephalopathy
+
+### Substrate-level phosphorylation
+- Two types of phosphoylation oxidative phosphorylation and substrate-level phosphorylation
+- A metabolic reaction that results in the direct production of ATP (or GTP).
+- Involves the transfer of an inorganic phosphate to an ATP (or a GTP)
+- Substrate-level phosphorylation happens twice in glycolysis and once in a citric acid cycle (for a net gain of four ATP)
+- Can occur in the absense of oxygen (anoxia)
+
+- NADH (nicotinamide adenine dinucleotide)
+    - NADH is derived from vitamin B3 (niacin)
+- FADH (flavin adenine dinucleotide)
+    - FADH2 is derived form vitamin B2 (riboflavin)
+
+# 10_3 (Fri) - Review
+
+### Concentration gradient/potential energy
+- Molecules move down concentration gradients.
+- Concentration gradients are associated with (potential) energy.
+### Electron transport chain
+- Cytochromes embedded in cell membranes work as a bucket brigade to use energy associated with electrons to pump protons across the membrane.
+### Chemiosmosis
+- The proton gradient created by the transport chain is used to drive the synthesis of ATP by ATP synthase
+
+# 10_6 (Mon) - Anaerobic Respiration
+### Learning Objectives
+- Outline the overall organizations of the common set of ordered chemical reactions to extract energy from glucose and how these pathways accomplish the processing of energy.
+- Describe the principles of energy transformations through membrane embedded electron trasport chains (ETCs).
+
+### 34 of the 38 ADP generated by electron transport chain are generated by oxidative phosphylation. How then is anaerobic respiration accomplished with any manner of efficiency?
+
+### Electron transport chain
+- Last component of aerobic respiration and the only part of metabolism that uses atmospheric oxygen
+    - Imbedded in the inner mitochondrial membrane in eukaryotes
+    - Electrons from NADH and FADH2 are used to move 3 and 2 protons, respectively, into the inner-membrane space
+    - ATP synthase then can make 3 and 2 ATPs, respectively
+
+### Fermentation
+- Generates lactic acid in our bodies
+- In things like yeast, it generates ethanol
+
+- Processes that use an organic molecule to regenerate NAD+ from NADH are collectively referred to as fermentation
+- In the absensce of oxygen, the end-product of glycolysis
+
+### Lactic acid fermentation
+- Chemical Reaction:
+    - Pyruvic acid + NADH <--> Lactic Acid + NAD+
+- The reaction is:
+    - Catalyzed by lactate dehydrogenase
+    - Reversible when O2 becomes available
+    - Example: muscle fatigue
+### Alcohol fermentation
+- Occurs in two steps
+    - Pyruvate <- Pyruvate decarboxylase -> Acetaldehyde <- Alcohol Dehyrogenase -> Ethanol
+- Produces ethanol
+- Example: fermentation of pyruvic acid by yeast
+
+### Alcohol metabolism
+- In humans, ehtanol is converted back to acetaldehyde, then to acetate which enters the citric acid cycle
+- The resulting increase of ATP in the brain stimulates dopaminergic neural activity and suppresses glutamatergic neural activity
+
+### Anabolic divergence
+- Anabolic pathways diverge to make all fats and carbohydrates
+
+### Connections to other pathways
+- Glycolysis -> Pyruvate oxidation -> citric acid cycle -> oxidative phosphorylation
+
+- Other sugars
+    - glycogen stored in the liver and muscle is broken down if blood sugar levels drop
+    - Allows ATP to be produced for a longer time
+- Lipid metabolism - Cholestrol and triglycerides are connected to the glucose pathways
+- Cholesterol synthesis
+    - Starts with acetyl CoA
+### Statins
+- Competitive inibitors of HMG-CoA reductase
+- Can reduce a person's circulating cholsterol by up to 50% -- and risk of heart attack by 25%
+- But benefits might come more from an as yet unexplained reduction in inflammation (pleiotrophy)
